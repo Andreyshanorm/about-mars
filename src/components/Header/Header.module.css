@@ -1,0 +1,20 @@
+.nav_list{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.navigation{
+    padding-top: 10px;
+}
+
+.active{
+    color: orange;
+}
+
+.nav_list_item{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

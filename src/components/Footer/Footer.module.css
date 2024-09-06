@@ -1,0 +1,18 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon_block{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex: 1 0;
+}
+
+.copy_block{
+    text-align: center;
+    width: 40%;
+    font-size: 12px;
+}
